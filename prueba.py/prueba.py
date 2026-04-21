@@ -13,15 +13,15 @@
 # validar si un numero es positivo
 
 
-num=int(imput("ingrese un numero: "))
+# num=int(imput("ingrese un numero: "))
 
-if num>0:
-    print("el numero es positivo")
-else: 
-    print ("el numero es negativo")
-print("elpromedio es", round(prom,1))
+# if num>0:
+#     print("el numero es positivo")
+# else: 
+#     print ("el numero es negativo")
+# print("elpromedio es", round(prom,1))
 
-if prom>=4:
-    print("el alumno aprobo")
-else:
-    print ("el alumno reprobo")
+# if prom>=4:
+#     print("el alumno aprobo")
+# else:
+#     print ("el alumno reprobo")

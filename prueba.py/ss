@@ -1,18 +1,18 @@
 
 
-n1=int(input("ingrese un numero"))
-n2=int(input("ingrese uotro numero"))
-n3=int(input("ingrese otro numero"))
-prom=(n1+n1+n2)/3
+# n1=int(input("ingrese un numero"))
+# n2=int(input("ingrese uotro numero"))
+# n3=int(input("ingrese otro numero"))
+# prom=(n1+n1+n2)/3
 
 
-if num>0:
-    print("el numero es positivo")
-else: 
-    print ("el numero es negativo")
-print("elpromedio es", round(prom,1))
+# if num>0:
+#     print("el numero es positivo")
+# else: 
+#     print ("el numero es negativo")
+# print("elpromedio es", round(prom,1))
 
-if prom>=4:
-    print("el alumno aprobo")
-else:
-    print ("el alumno reprobo")
+# if prom>=4:
+#     print("el alumno aprobo")
+# else:
+#     print ("el alumno reprobo")
